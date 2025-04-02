@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ISHACHAND
-- 👀 I’m interested in Web Develoment and Android Development 
+- 👀 I’m interested in Web Development and Android Development 
 - 🌱 I’m currently learning Java and CSS
 - 💞️ I’m looking to collaborate on Web Dev and Creation
 - 📫 How to reach me ishachand171@gmail.com
